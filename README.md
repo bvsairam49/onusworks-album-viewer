@@ -2,7 +2,7 @@
 
 ## Getting Started 🚀
 
-Run below commands to run his project
+Run below commands to run this project
 
 ```sh
 $ flutter pub get
