@@ -1,0 +1,118 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "onboardAppBarTitle": "Bienvenido",
+    "@onboardAppBarTitle": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "loginAppBarTitle": "Iniciar sesión",
+    "@loginAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página de inicio de sesión"
+    },
+    "homeAppBarTitle": "Inicio",
+    "@homeAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página de inicio"
+    },
+    "albumsAppBarTitle": "Álbumes",
+    "@albumsAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página de álbumes"
+    },
+    "photosAppBarTitle": "Fotos",
+    "@photosAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página de fotos"
+    },
+    "onboardingTitle": "¡Bienvenido a Onusworks!",
+    "@onboardingTitle": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "onboardingDescription": "Crea una cuenta en Onusworks y crea tus primeros álbumes",
+    "@onboardingDescription": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "enterUsername": "Introduce tu nombre de usuario",
+    "@enterUsername": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "enterPassword": "Introduce tu contraseña",
+    "@enterPassword": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "save": "Guardar",
+    "@save": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "login": "Iniciar sesión",
+    "@login": {
+        "description": "Texto mostrado en la pantalla de inicio de sesión"
+    },
+    "loginError": "Usuario o contraseña incorrecta",
+    "@loginError": {
+        "description": "Texto mostrado en la pantalla de inicio de sesión"
+    },
+    "loginTitle": "Iniciar sesión a Onusworks",
+    "@loginTitle": {
+        "description": "Texto mostrado en la pantalla de inicio de sesión"
+    },
+    "loginDescription": "Introduce tu nombre de usuario y contraseña para iniciar sesión",
+    "@loginDescription": {
+        "description": "Texto mostrado en la pantalla de inicio de sesión"
+    },
+    "onboardSuccess": "Detalles de usuario guardados correctamente",
+    "@onboardSuccess": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "onboardError": "Error al guardar los detalles del usuario",
+    "@onboardError": {
+        "description": "Texto mostrado en la pantalla de bienvenida"
+    },
+    "homeScreenTitle": "Página de inicio",
+    "@homeScreenTitle": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "albums":"Álbumes",
+    "@albums": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "photos":"Fotos",
+    "@photos": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "failedToFetchAlbums": "Error al recuperar los álbumes",
+    "@failedToFetchAlbums": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "failedToFetchPhotos": "Error al recuperar las fotos",
+    "@failedToFetchPhotos": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "addNewAlbum": "Anadir nuevo álbum",
+    "@addNewAlbum": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    
+    "addAlbum": "Anadir álbum",
+    "@addAlbum": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "cancel": "Cancelar",
+    "@cancel": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "title": "Título",
+    "@title": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "albumPhotosTitle": "Fotos del álbum",
+    "@albumPhotosTitle": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    },
+    "noPhotosFound": "No se encontraron fotos",
+    "@noPhotosFound": {
+        "description": "Texto mostrado en la pantalla de inicio"
+    }
+
+
+}

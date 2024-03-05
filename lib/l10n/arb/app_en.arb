@@ -1,0 +1,113 @@
+{
+    "@@locale": "en",
+    "onboardAppBarTitle": "Onboard User",
+    "@onboardAppBarTitle": {
+        "description": "Text shown in the AppBar of the Onboard Page"
+    },
+    "loginAppBarTitle": "Login",
+    "@loginAppBarTitle": {
+        "description": "Text shown in the AppBar of the Login Page"
+    },
+    "homeAppBarTitle": "Home",
+    "@homeAppBarTitle": {
+        "description": "Text shown in the AppBar of the Home Page"
+    },
+    "albumsAppBarTitle": "Albums",
+    "@albumsAppBarTitle": {
+        "description": "Text shown in the AppBar of the Albums Page"
+    },
+    "photosAppBarTitle": "Photos",
+    "@photosAppBarTitle": {
+        "description": "Text shown in the AppBar of the Photos Page"
+    },
+    "onboardingTitle": "Welcome to Onusworks Album APP",
+    "@onboardingTitle": {
+        "description": "Text shown in the Onboarding Page"
+    },
+    "onboardingDescription": "Enter your information to continue onboarding process and get access to view albums.",
+    "@onboardingDescription": {
+        "description": "Text shown in the Onboarding Page"
+    },
+    "enterUsername": "Enter username",
+    "@enterUsername": {
+        "description": "Text shown in the Onboarding Page"
+    },
+    "enterPassword": "Enter password",
+    "@enterPassword": {
+        "description": "Text shown in the Onboarding Page"
+    },
+    "save": "Save",
+    "@save": {
+        "description": "Text shown in the Onboarding Page"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Text shown in the Login Page"
+    },
+    "loginError": "Invalid username or password",
+    "@loginError": {
+        "description": "Text shown in the Login Page"
+    },
+    "loginTitle": "Login to Onusworks Album APP",
+    "@loginTitle": {
+        "description": "Text shown in the Login Page"
+    },
+    "loginDescription": "Enter your username and password to login",
+    "@loginDescription": {
+        "description": "Text shown in the Login Page"
+    },
+    "onboardSuccess": "User details saved successful",
+    "@onboardSuccess": {
+        "description": "Text shown in the Onboarding Page"
+    },
+    "onboardError": "Error while saving user details",
+    "@onboardError": {
+        "description": "Text shown in the Onboarding Page"
+    },
+    "homeScreenTitle": "Home Page",
+    "@homeScreenTitle": {
+        "description": "Text shown in the Home Page"
+    },
+    "albums":"Albums",
+    "@albums": {
+        "description": "Text shown in the Albums Page"
+    },
+    "photos":"Photos",
+    "@photos": {
+        "description": "Text shown in the Photos Page"
+    },
+    "failedToFetchAlbums": "Failed to fetch albums",
+    "@failedToFetchAlbums": {
+        "description": "Text shown in the Albums Page"
+    },
+    "failedToFetchPhotos": "Failed to fetch photos",
+    "@failedToFetchPhotos": {
+        "description": "Text shown in the Photos Page"
+    },
+    "addNewAlbum": "Add New Album",
+    "@addNewAlbum": {
+        "description": "Text shown in the Albums Page"
+    },
+    "addAlbum": "Add Album",
+    "@addAlbum": {
+        "description": "Text shown in the Albums Page"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Text shown in the Albums Page"
+    },
+    "title": "Title",
+    "@title": {
+        "description": "Text shown in the Albums Page"
+    },
+    "albumPhotosTitle": "Album Photos",
+    "@albumPhotosTitle": {
+        "description": "Text shown in the Photos Page"
+    },
+    "noPhotosFound": "No photos found",
+    "@noPhotosFound": {
+        "description": "Text shown in the Photos Page"
+    }
+    
+
+}
